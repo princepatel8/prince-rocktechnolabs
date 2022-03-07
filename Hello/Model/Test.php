@@ -19,7 +19,7 @@ class Test implements TestInterface
      */
     public function setData($data)
     {   
-        echo "string";
+        // echo "string123";
         $name =$data['name'];
         $number =$data['number'];
         $city =$data['city'];
